@@ -53,8 +53,8 @@
         letter-spacing: 1.5px;
       }
       @keyframes pulseDot {
-        0%, 100% { opacity: 1; r: 4; }
-        50% { opacity: 0.35; r: 6; }
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.35; }
       }
       @keyframes slideBeam {
         0% { transform: translateX(0px); }
@@ -87,8 +87,7 @@
 
   <!-- Top HUD Metadata -->
   <text x="52" y="34" class="hud-tag">SYS.ID // xK0RFx</text>
-  <circle cx="704" cy="30" r="4" class="dot-live"/>
-  <text x="848" y="34" text-anchor="end" class="hud-live">ONLINE // BUILD READY</text>
+  <text x="848" y="34" text-anchor="end" class="hud-live"><tspan class="dot-live">●</tspan><tspan> ONLINE // BUILD READY</tspan></text>
 
   <!-- Center Title -->
   <text x="455" y="122" text-anchor="middle" class="hero-title">K0RF</text>
