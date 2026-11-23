@@ -87,8 +87,8 @@
 
   <!-- Top HUD Metadata -->
   <text x="52" y="34" class="hud-tag">SYS.ID // xK0RFx</text>
-  <circle cx="748" cy="30" r="4" class="dot-live"/>
-  <text x="760" y="34" class="hud-live">ONLINE // BUILD READY</text>
+  <circle cx="704" cy="30" r="4" class="dot-live"/>
+  <text x="848" y="34" text-anchor="end" class="hud-live">ONLINE // BUILD READY</text>
 
   <!-- Center Title -->
   <text x="455" y="122" text-anchor="middle" class="hero-title">K0RF</text>

@@ -91,20 +91,20 @@
     <!-- Feature Grid -->
     <g transform="translate(24, 54)">
       <rect x="0" y="0" width="168" height="58" rx="8" fill="#13141c" stroke="#24283b" stroke-width="1"/>
-      <text x="14" y="24" class="pill" fill="#ff9e64">⚡ Zero-Bloat</text>
+      <text x="14" y="24" class="pill" fill="#ff9e64">▸ Zero-Bloat</text>
       <text x="14" y="42" class="sub">Один бинарник, 0 рантайма</text>
 
       <rect x="182" y="0" width="168" height="58" rx="8" fill="#13141c" stroke="#24283b" stroke-width="1"/>
-      <text x="196" y="24" class="pill" fill="#2ac3de">🪟 Win32 &amp; OCR</text>
-      <text x="196" y="42" class="sub">Нативные хуки и оверлеи</text>
+      <text x="196" y="24" class="pill" fill="#2ac3de">▸ Win32 &amp; OCR</text>
+      <text x="196" y="42" class="sub">Хуки и оверлеи</text>
 
       <rect x="0" y="72" width="168" height="58" rx="8" fill="#13141c" stroke="#24283b" stroke-width="1"/>
-      <text x="14" y="96" class="pill" fill="#9ece6a">🔧 Automation</text>
-      <text x="14" y="114" class="sub">Скрипты, кодеки, пайплайны</text>
+      <text x="14" y="96" class="pill" fill="#9ece6a">▸ Automation</text>
+      <text x="14" y="114" class="sub">Скрипты и кодеки</text>
 
       <rect x="182" y="72" width="168" height="58" rx="8" fill="#13141c" stroke="#24283b" stroke-width="1"/>
-      <text x="196" y="96" class="pill" fill="#bb9af7">🚀 Low Latency</text>
-      <text x="196" y="114" class="sub">LTO + async + многопоток</text>
+      <text x="196" y="96" class="pill" fill="#bb9af7">▸ Low Latency</text>
+      <text x="196" y="114" class="sub">LTO + async</text>
     </g>
   </g>
 </svg>
