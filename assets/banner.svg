@@ -57,8 +57,8 @@
         50% { opacity: 0.35; r: 6; }
       }
       @keyframes slideBeam {
-        0% { transform: translateX(-300px); }
-        100% { transform: translateX(900px); }
+        0% { transform: translateX(0px); }
+        100% { transform: translateX(410px); }
       }
       @keyframes floatOrb {
         0%, 100% { transform: translateY(0px); }

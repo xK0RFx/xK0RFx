@@ -92,7 +92,7 @@
     <g transform="translate(24, 54)">
       <rect x="0" y="0" width="168" height="58" rx="8" fill="#13141c" stroke="#24283b" stroke-width="1"/>
       <text x="14" y="24" class="pill" fill="#ff9e64">▸ Zero-Bloat</text>
-      <text x="14" y="42" class="sub">Один бинарник, 0 рантайма</text>
+      <text x="14" y="42" class="sub">Без рантайма</text>
 
       <rect x="182" y="0" width="168" height="58" rx="8" fill="#13141c" stroke="#24283b" stroke-width="1"/>
       <text x="196" y="24" class="pill" fill="#2ac3de">▸ Win32 &amp; OCR</text>
