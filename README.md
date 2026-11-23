@@ -44,18 +44,6 @@
 
 </div>
 
-### Проекты
-
-| Проект | Описание | Стек |
-|:--|:--|:--|
-| **[radio_fm](https://github.com/xK0RFx/radio_fm)** | Оверлей с Windows OCR: распознаёт вопрос на экране и подсвечивает правильный ответ | `Rust` |
-| **[pinter-rust](https://github.com/xK0RFx/pinter-rust)** | Rust-бэкенд Pinter с сохранённым интерфейсом | `Rust` |
-| **[sharex-jpegxl](https://github.com/xK0RFx/sharex-jpegxl)** | ShareX сохраняет скриншоты в JPEG XL через `cjxl` / `libjxl` | `PowerShell` |
-| **[pinter](https://github.com/xK0RFx/pinter)** | Локальное веб-приложение с Python-бэкендом, открывается в браузере | `Python` |
-| **[afk_kick_tg_bot](https://github.com/xK0RFx/afk_kick_tg_bot)** | Telegram-бот, который кикает участников за AFK | `Python` |
-| **[pip](https://github.com/xK0RFx/pip)** | Небольшая утилита на Python | `Python` |
-| **[The_shadow_of_time](https://github.com/xK0RFx/The_shadow_of_time)** | Творческий проект «Тень времени» | — |
-
 ### Активность
 
 <div align="center">
